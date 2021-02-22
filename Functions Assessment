@@ -1,0 +1,25 @@
+function firstLetterName;
+function showAlert() {
+    var myText = "The name Samel starts with the letter S.";
+    alert (myText);
+
+function divisibleByTwo 
+if(number % 2 == 0) {
+    console.log("The number is even.");
+}
+
+// if the number is odd
+else {
+    console.log("The number is odd.");
+}
+
+
+function largestNum
+var largestNum;
+var myArray = [5, 9, 11, 23, 87, 56, 103];
+for (var i = 0; i < arr.length; i++
+console.log(arr[i]);
+
+function firstLetterName();
+function divisibleByTwo ();
+fuction largestNum ();
